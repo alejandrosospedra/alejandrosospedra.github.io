@@ -38,6 +38,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - 
+    scope:
+      path: "images"
+    values:
+      image: true
 
 markdown: kramdown
 
