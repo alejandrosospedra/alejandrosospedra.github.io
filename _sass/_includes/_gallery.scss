@@ -5,24 +5,8 @@
 // - - - - - - - - - - - - - - - - - -
 
 .gallery {
-	visibility: hidden;
-	position: relative;
-	max-width: 90%;
-	margin: 20px auto;
-
-	@include mq(tabletp) {
-		max-width: 83%;
-		margin: 30px auto;
-	}
-
-	@include mq(laptop) {
-		max-width: 75%;
-		margin: 40px auto;
-	}
-
-	&:first-child {
-		margin-top: 0;
-	}
+	padding: 0 $grid-spacing/2;
+	margin-top: -$grid-spacing/2;
 }
 
 .gallery--on {
