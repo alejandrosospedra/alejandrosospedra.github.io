@@ -9,13 +9,13 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	padding: 10px 16px;
+	padding: 20px 0px;
 
 	.wrap {
 		max-width: 100%;
 
 		@include mq(tabletp) {
-			padding: 0 20px;
+			padding: 0px 20px;
 		}
 	}
 
@@ -24,7 +24,7 @@
 }
 
 .content {
-	padding-top: 50px;
+	padding-top: 70px;
 }
 
 .header__logo {
