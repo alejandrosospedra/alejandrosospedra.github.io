@@ -10,11 +10,15 @@ menu_settings:
   menu_items:
     - title: 'Portfolio'
       url: '/'
+    - title: 'Viajes'
+      url: '/viajes'
+    - title: 'Hoteles'
+      url: '/hoteles'
     - title: 'Servicios'
       url: '/servicios'
-    - title: 'About'
+    - title: 'Sobre mí'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Contacto'
       url: '/contact'
 
 footer_settings:
