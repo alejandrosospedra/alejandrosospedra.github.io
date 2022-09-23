@@ -37,6 +37,8 @@
 	.gallery__item__link {
 		display: block;
 		pointer-events: none;
+		max-height: 100vh;
+		max-width: 100%;
 	}
 
 	.gallery__item__image {
