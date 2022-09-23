@@ -22,11 +22,12 @@
 	position: fixed;
 	z-index: 9999;
 
-	background-color: black;
+	backdrop-filter: blur(10px);
+	background-color: rgba(255, 255, 255, 0.5);  
 }
 
 .content {
-	padding-top: 70px;
+	padding-top: 0px;
 }
 
 .header__logo {
@@ -50,7 +51,7 @@
 	font-weight: $sitetitle-weight;
 	letter-spacing: $sitetitle-spacing;
 	line-height: 1;
-	color: $text_white_color;
+	color: $text_dark_color;
 
 	&:hover {
 		color: $accent-color;
@@ -212,7 +213,7 @@
 	@include mq(tabletp) {
 		padding: 0 0 3px;
 		font-size: $menu-medium;
-		color: $text-white-color;
+		color: $text-dark-color;
 
 		&:hover {
 			color: $accent-color;
