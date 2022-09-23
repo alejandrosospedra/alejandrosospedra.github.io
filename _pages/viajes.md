@@ -5,8 +5,6 @@ description: Échale un vistazo a mi portfolio para ver un ejemplo de mis fotogr
 featured_image: /images/demo/
 ---
 
-![](/images/demo/landscape-02.jpg)
-
-## La Boella
-
-![](/images/demo/landscape-03.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/Pagina2Viajes/DJI_0160.jpg">
+</div>
