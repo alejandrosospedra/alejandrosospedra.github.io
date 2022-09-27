@@ -5,6 +5,23 @@ description: Échale un vistazo a mi portfolio para ver un ejemplo de mis fotogr
 featured_image: /images/demo/
 ---
 
+<script type="text/javascript">
+	document.body.style.backgroundColor = 'black';
+</script>
+
 <div class="gallery" data-columns="1">
 	<img src="/images/Pagina2Viajes/DJI_0160.jpg">
 </div>
+
+<div class="gallery" data-columns="3">	
+	<img src="/images/Pagina2Viajes/7N1A2396.jpg">
+	<img src="/images/Pagina2Viajes/7N1A3907.jpg">
+	<img src="/images/Pagina2Viajes/7N1A5644.jpg">
+	<img src="/images/Pagina2Viajes/7N1A5686.jpg">
+	<img src="/images/Pagina2Viajes/7N1A5768.jpg">
+	<img src="/images/Pagina2Viajes/7N1A0211.jpg">
+	<img src="/images/Pagina2Viajes/7N1A0214.jpg">
+	<img src="/images/Pagina2Viajes/7N1A0219.jpg">
+	<img src="/images/Pagina2Viajes/7N1A0412.jpg">
+</div>
+
