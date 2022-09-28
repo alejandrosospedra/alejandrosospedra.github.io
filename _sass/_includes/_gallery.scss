@@ -167,4 +167,17 @@
 }
 
 
+/* Centered text */
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 9998;
+    font-size: 300px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	font-family: 'Raleway', sans-serif;	
+	color: white;
+  }
 
