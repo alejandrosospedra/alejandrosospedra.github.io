@@ -131,6 +131,7 @@ h6, .h6 {
 }
 
 p, ul, ol {
+	text-align: justify;
 	margin-top: 15px;
 	font-size: $p-small;
 	font-weight: $p-weight;
@@ -180,6 +181,7 @@ blockquote {
 	}
 
 	p {
+		text-align: justify;
 		font-size: $blockquote-small;
 		font-weight: $blockquote-weight;
 		letter-spacing: $blockquote-spacing;
@@ -197,7 +199,7 @@ blockquote {
 
 a {
 	text-decoration: none;
-	color: $text-white-color;
+	color: $text-dark-color;
 	font-weight: $bold-weight;
 	@include transition(all 0.15s ease-in-out);
 
