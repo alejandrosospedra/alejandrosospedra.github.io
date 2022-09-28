@@ -5,8 +5,27 @@ description: Échale un vistazo a mi portfolio para ver un ejemplo de mis fotogr
 featured_image: /images/demo/
 ---
 
-![](/images/demo/landscape-02.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/pagina/7N1A9599.jpg">
+</div>
 
-## La Boella
+<div class="service">
+    <div class="service-half">
+           <img src="/images/pagina/7N1A0274.jpg">
+    </div>
+    <div class="service-half">
+        <h2>Título</h2>
+        <p>Esto es un texto de prueba</p>
+    </div>
+</div>
 
-![](/images/demo/landscape-03.jpg)
+<div class="service">    
+    <div class="service-half">
+        <h2>Título</h2>
+        <p>Esto es un texto de prueba</p>
+    </div>
+    <div class="service-half">
+           <img src="/images/pagina/7N1A0274.jpg">
+    </div>
+
+</div>
