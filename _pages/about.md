@@ -34,5 +34,5 @@ featured_image: /images/demo/landscape-05.jpg
 <div style="margin-left:20px">
     <h2 id="contactame">Contáctame</h2>
     <p>Para contactarme rellena el <a href="contact">formulario de contacto</a>, te respondere lo antes posible.</p>
-    <a href="contact" class="button button--large">Contáctame</a>
+    <a href="contact" class="button button--large" style="margin-top: 20px">Contáctame</a>
 </div>
