@@ -33,7 +33,7 @@ contact_settings:
   form_action: ''
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  send_button_text: 'Enviar mensaje'
 
 social_settings:
   facebook_url: ''
