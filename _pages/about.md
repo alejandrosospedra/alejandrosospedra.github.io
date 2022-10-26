@@ -8,11 +8,11 @@ featured_image: /images/demo/landscape-05.jpg
     document.getElementById("header").style.position = 'relative';
 </script>
 
-<div class="service">
-    <div class="service-half">
+<div class="about">
+    <div class="about-half">
         <img src="/images/Pagina2Viajes/KIK0215.jpg">
     </div>
-    <div class="service-half">
+    <div class="about-half">
         <h2>Eric Panadés Bosch</h2>
         <p>Después de años interesándome e investigando sobre la fotografía, en 2015 empezó mi carrera como fotógrafo cuando me hice con mi primera cámara.
         </p>

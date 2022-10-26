@@ -1,0 +1,19 @@
+.about {
+    clear: both;
+    position: relative;
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    border-right: 300px;
+}
+
+.about-half {
+    width: 50%;
+    float: left;
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+    box-sizing: border-box;
+    padding: 20px;
+    border-left: 300px;
+}
