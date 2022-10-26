@@ -19,8 +19,6 @@ Después de años interesándome e investigando sobre la <br> fotografía, en 20
     <div class="about-half">
         <h3>Eric Panades Bosch</h3>
         <h7>FOTÓGRAFO PROFESIONAL</h7>
-        <p>Después de años interesándome e investigando sobre la fotografía, en 2015 empezó mi carrera como fotógrafo cuando me hice con mi primera cámara.
-        </p>
         <p>
         Tras 4 años haciendo fotos a prácticamente todo y formarme de manera autodidacta, llegaron mis primeros encargos profesionales que me permitieron creer en un futuro como fotógrafo profesional.
         </p>
