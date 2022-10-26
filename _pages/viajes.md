@@ -11,6 +11,7 @@ featured_image: /images/demo/
 
 <div class="gallery" data-columns="1" style="margin-bottom: 10px">
 	<img src="/images/Pagina2Viajes/DJI_0160.jpg">
+	<page class="centered">VIAJES</page>
 </div>
 
 <div class="gallery" data-columns="3">	

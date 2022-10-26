@@ -294,6 +294,13 @@ hr {
 ::selection 	 { background: $accent-color; color: $background-color; }
 ::-moz-selection { background: $accent-color; color: $background-color; }
 
+texto-hotel {
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+	padding: 100px 100px 100px;
+}
+
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page loading

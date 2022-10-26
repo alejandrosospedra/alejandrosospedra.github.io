@@ -7,6 +7,7 @@ featured_image: /images/demo/
 
 <div class="gallery" data-columns="1">
 	<img src="/images/pagina/7N1A9599.jpg">
+    <page class="centered">SERVICIOS</page>
 </div>
 
 <div class="service">
