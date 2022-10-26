@@ -5,7 +5,10 @@
     width: 100%;
     box-sizing: border-box;
     margin: 0;
-    border-right: 300px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
 }
 
 .about-half {
@@ -15,5 +18,4 @@
     background-size: cover !important;
     box-sizing: border-box;
     padding: 20px;
-    border-left: 300px;
 }
