@@ -8,12 +8,17 @@ featured_image: /images/demo/landscape-05.jpg
     document.getElementById("header").style.position = 'relative';
 </script>
 
+<div class="about-title">Sobre mí</div>
+<div class="about-quote"> 
+Después de años interesándome e investigando sobre la <br> fotografía, en 2015 empezó mi carrera como fotógrafo <br> cuando me hice con mi primera cámara.
+</div>
 <div class="about">
     <div class="about-half">
         <img src="/images/Pagina2Viajes/KIK0215.jpg">
     </div>
     <div class="about-half">
-        <h2>Eric Panadés Bosch</h2>
+        <h3>Eric Panades Bosch</h3>
+        <h7>FOTÓGRAFO PROFESIONAL</h7>
         <p>Después de años interesándome e investigando sobre la fotografía, en 2015 empezó mi carrera como fotógrafo cuando me hice con mi primera cámara.
         </p>
         <p>
@@ -29,10 +34,4 @@ featured_image: /images/demo/landscape-05.jpg
         Actualmente me dedico a la fotografía de Stock y de hotelería, produciendo sesiones de fotos más comerciales y para un publico mas empresarial, mi idea es expandirme en estos sectores.
         </p>
     </div>
-</div>
-
-<div style="margin-left:20px">
-    <h2 id="contactame">Contáctame</h2>
-    <p>Para contactarme rellena el <a href="contact">formulario de contacto</a>, te respondere lo antes posible.</p>
-    <a href="contact" class="button button--large" style="margin-top: 20px">Contáctame</a>
 </div>

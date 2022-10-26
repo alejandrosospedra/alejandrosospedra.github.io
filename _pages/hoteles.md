@@ -19,3 +19,7 @@ featured_image: /images/demo/
 	<img src="/images/Pagina2Viajes/7N1A3907.jpg">
 	<img src="/images/Pagina2Viajes/7N1A5644.jpg">
 </div>
+
+<div>
+    <a href="contact" class="button-pill">Contacto</a>
+</div>

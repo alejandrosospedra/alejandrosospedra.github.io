@@ -15,4 +15,26 @@
     background-size: cover !important;
     box-sizing: border-box;
     padding: 20px;
+    position: relative;
+}
+
+.about-title {
+    text-align: center;
+    margin-top: 60px;
+	font-size: $h2-large;
+	font-weight: $h2-weight;
+	line-height: $h2-lineheight;
+	letter-spacing: $h2-spacing;
+    position: relative;
+}
+
+.about-quote {
+    text-align: center;
+    margin-top: 15px;
+	font-size: $p-small;
+	font-weight: $p-weight;
+	line-height: $p-lineheight;
+	letter-spacing: $p-spacing;
+    margin-bottom: 60px;
+    position: relative;
 }
