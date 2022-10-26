@@ -5,10 +5,6 @@ description: Échale un vistazo a mi portfolio para ver un ejemplo de mis fotogr
 featured_image: /images/demo/
 ---
 
-<script type="text/javascript">
-	document.body.style.backgroundColor = 'black';
-</script>
-
 <div class="gallery" data-columns="1">
 	<img src="/images/Pagina2Viajes/DJI_0032.jpg">
     <img src="/images/Pagina2Viajes/DJI_0032.jpg">

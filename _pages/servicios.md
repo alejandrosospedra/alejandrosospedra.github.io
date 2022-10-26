@@ -28,5 +28,20 @@ featured_image: /images/demo/
     <div class="service-half">
            <img src="/images/pagina/7N1A0274.jpg">
     </div>
+</div>
 
+<div class="service">
+    <div class="service-half">
+           <img src="/images/pagina/7N1A0274.jpg">
+    </div>
+    <div class="service-half">
+        <h2>Título</h2>
+        <p>Esto es un texto de prueba</p>
+    </div>
+</div>
+
+<div style="margin-left:20px">
+    <h2 id="contactame">Contáctame</h2>
+    <p>Para contactarme rellena el <a href="contact">formulario de contacto</a>, te respondere lo antes posible.</p>
+    <a href="contact" class="button button--large" style="margin-top: 20px">Contáctame</a>
 </div>
