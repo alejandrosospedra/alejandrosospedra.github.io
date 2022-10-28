@@ -10,22 +10,31 @@ featured_image: /images/demo/
     <page class="centered">SERVICIOS</page>
 </div>
 
-<div class="service">
-    <div class="service-half">
-           <img src="/images/pagina/7N1A0274.jpg">
+<div class="service">    
+    <div class="service-text">
+        <h1>¿Por qué podemos colaborar?</h1>
+        <h6>Permite que busque los puntos a destacar de tu empresa y así poder dar una visión muy sencilla de apreciar a través de la fotografía todo aquello que os hace destacar; ser únicos.</h6>
+        <h6>Todo el potencial de tu empresa reflejado en imágenes profesionales a bajo coste o incluso a coste cero!</h6>
     </div>
-    <div class="service-half">
-        <h2>Título</h2>
-        <p>Esto es un texto de prueba</p>
+    <div class="service-image">
+        <img src="/images/servicios/7N1A0274.jpg">
+    </div>
+</div>
+<div class="separadores"></div>
+<div class="service">    
+    <div class="service-text">
+        <h1>¿Quieres verte en una fotografía?</h1>
+        <h6>Quiero trabajar con personas; de todos los estilos, edades y físicos que quieran hacerse fotos profesionales.</h6>
+        <h6>No tiene porqué saber posicionarse delante de una cámara, trabajemos juntos y consigamos un resultado professional y</h6><h6>en la mayoría de ocasiones gratuito!</h6>
+    </div>
+    <div class="service-image">
+        <img src="/images/servicios/7N1A5577.jpg">
     </div>
 </div>
 
-<div class="service">    
-    <div class="service-half">
-        <h2>Título</h2>
-        <p>Esto es un texto de prueba</p>
-    </div>
-    <div class="service-half">
-           <img src="/images/pagina/7N1A0274.jpg">
-    </div>
+<div>
+    <a href="contact" class="button-pill">Contacto</a>
+</div>
+<div class="contact-quote"> 
+Cuéntame tu proyecto y te contactaré lo antes posible<br>con un presupuesto personalizado
 </div>

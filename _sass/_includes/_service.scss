@@ -1,10 +1,5 @@
 .service {
-    clear: both;
-    position: relative;
-    float: left;
-    width: 100%;
-    box-sizing: border-box;
-    margin: 0;
+    padding: 25px 150px 25px 150px;
 }
 
 .service-half {
@@ -14,4 +9,13 @@
     background-size: cover !important;
     box-sizing: border-box;
     padding: 20px;
+}
+
+.service-text {
+    text-align: center;
+    padding: 50px 50px 0px 50px;
+}
+
+.service-image {
+    padding: 50px 350px;
 }
