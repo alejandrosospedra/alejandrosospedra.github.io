@@ -10,7 +10,7 @@ featured_image: /images/demo/
 </script>
 
 <div class="gallery" data-columns="1" style="margin-bottom: 10px">
-	<img src="/images/Pagina2Viajes/_KIK9238.jpg">
+	<img src="/images/Pagina2Viajes/KIK9238.jpg">
 	<page class="centered">VIAJES</page>
 </div>
 
