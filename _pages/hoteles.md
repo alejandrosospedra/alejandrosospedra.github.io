@@ -42,7 +42,6 @@ featured_image: / mages/demo/
 	<img src="/images/hoteles/127N1A5212.jpg">
 	<img src="/images/hoteles/137N1A2735.jpg">
 	<img src="/images/hoteles/147N1A3476.jpg">
-	<img src="/images/hoteles/157N1A5177.jpg">
 	<img src="/images/hoteles/7N1A4485.jpg">	
 	<img src="/images/hoteles/167N1A1736.jpg">
 	<img src="/images/hoteles/177N1A5594.jpg">
@@ -60,5 +59,5 @@ featured_image: / mages/demo/
     <a href="contact" class="button-pill">Contacto</a>
 </div>
 <div class="contact-quote"> 
-Cuéntame tu proyecto y te contactaré lo antes posible<br>con un presupuesto personalizado
+Trabajemos juntos!
 </div>

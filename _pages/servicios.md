@@ -36,5 +36,5 @@ featured_image: /images/demo/
     <a href="contact" class="button-pill">Contacto</a>
 </div>
 <div class="contact-quote"> 
-Cuéntame tu proyecto y te contactaré lo antes posible<br>con un presupuesto personalizado
+Trabajemos juntos!
 </div>

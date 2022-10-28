@@ -14,7 +14,7 @@ Después de años interesándome e investigando sobre la <br> fotografía, en 20
 </div>
 <div class="about">
     <div class="about-half">
-        <img src="/images/about/KIK0211.jpg">
+        <img src="/images/about/KIK0211.jpg" class="image-about">
     </div>
     <div class="about-half">
         <h3>Eric Panades Bosch</h3>
@@ -27,17 +27,14 @@ Después de años interesándome e investigando sobre la <br> fotografía, en 20
         </p>
         <br>
         <br>
-        <br>
         <p>
         Me considero una persona con ganas de descubrir y mejorar día a día, tanto en el ámbito personal como en el profesional. 
         </p>
         <br>
         <br>
-        <br>
         <p>
         Por esa razón, desde que empecé, no me he cerrado a ningún tipo de fotografía pasando por prácticamente todos sus campos y permitiéndome aprender de cada uno de ellos.
         </p>
-        <br>
         <br>
         <br>
         <p>
