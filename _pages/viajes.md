@@ -31,7 +31,6 @@ featured_image: /images/demo/
 	<img src="/images/Pagina2Viajes/14.jpg">
 	<img src="/images/Pagina2Viajes/15.jpg">
 	<img src="/images/Pagina2Viajes/16.jpg">
-	<img src="/images/Pagina2Viajes/16-2.jpg">
 	<img src="/images/Pagina2Viajes/17.jpg">
 	<img src="/images/Pagina2Viajes/18.jpg">
 	<img src="/images/Pagina2Viajes/19.jpg">
