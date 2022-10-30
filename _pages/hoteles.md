@@ -59,5 +59,5 @@ featured_image: / mages/demo/
     <a href="contact" class="button-pill">Contacto</a>
 </div>
 <div class="contact-quote"> 
-Trabajemos juntos!
+Cuéntame tu proyecto y te responderé lo antes posible con un<br>prespuesto personalizado
 </div>
