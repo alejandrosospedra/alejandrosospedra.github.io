@@ -41,11 +41,8 @@ featured_image: /images/demo/
 	<img src="/images/Pagina2Viajes/23.jpg">
 	<img src="/images/Pagina2Viajes/24.jpg">
 	<img src="/images/Pagina2Viajes/25.jpg">
-	<img src="/images/Pagina2Viajes/26.jpg">
 	<img src="/images/Pagina2Viajes/27.jpg">
 	<img src="/images/Pagina2Viajes/28.jpg">
-	<img src="/images/Pagina2Viajes/29.jpg">
-	<img src="/images/Pagina2Viajes/30.jpg">
 	<img src="/images/Pagina2Viajes/31.jpg">
 	<img src="/images/Pagina2Viajes/32.jpg">
 	<img src="/images/Pagina2Viajes/33.jpg">
@@ -66,6 +63,7 @@ featured_image: /images/demo/
 	<img src="/images/Pagina2Viajes/49.jpg">
 	<img src="/images/Pagina2Viajes/50.jpg">
 	<img src="/images/Pagina2Viajes/51.jpg">
+	<img src="/images/Pagina2Viajes/29.jpg">
 	<img src="/images/Pagina2Viajes/52.jpg">
 	<img src="/images/Pagina2Viajes/53.jpg">
 	<img src="/images/Pagina2Viajes/54.jpg">
@@ -82,6 +80,7 @@ featured_image: /images/demo/
 	<img src="/images/Pagina2Viajes/63.jpg">
 	<img src="/images/Pagina2Viajes/65.jpg">
 	<img src="/images/Pagina2Viajes/66.jpg">
-	
+	<img src="/images/Pagina2Viajes/26.jpg">
+	<img src="/images/Pagina2Viajes/30.jpg">
 </div>
 
