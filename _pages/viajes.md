@@ -54,7 +54,6 @@ featured_image: /images/demo/
 	<img src="/images/Pagina2Viajes/36.jpg">
 	<img src="/images/Pagina2Viajes/37.jpg">
 	<img src="/images/Pagina2Viajes/38.jpg">
-	<img src="/images/Pagina2Viajes/39.jpg">
 	<img src="/images/Pagina2Viajes/40.jpg">
 	<img src="/images/Pagina2Viajes/41.jpg">
 	<img src="/images/Pagina2Viajes/42.jpg">
