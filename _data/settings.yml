@@ -81,22 +81,23 @@ font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Quicksand:wght@300&family=Raleway:wght@100&display=swap" rel="stylesheet">'
-  title_font: '"Poppins", sans-serif'
-  body_font: '"Poppins", sans-serif'
+<link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Quicksand:wght@300&family=Raleway:wght@100&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="MyFontsWebfontsKit/MyFontsWebfontsKit.css">'
+  title_font: 'FuturaPTLight'
+  body_font: 'FuturaPTLight'
   regular_weight: 300
   bold_weight: 500
   site_title:
-    small_size: 22
+    small_size: 26
     medium_size: 26
     large_size: 30
-    weight: 500
+    weight: 1000
     letter_spacing: -0.02
   menu:
     small_size: 30
     medium_size: 14
-    large_size: 15
-    weight: 500
+    large_size: 20
+    weight: 1000
     letter_spacing: 0
   grid_item_title:
     small_size: 22
