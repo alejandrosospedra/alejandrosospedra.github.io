@@ -55,8 +55,10 @@ featured_image: / mages/demo/
 	<img src="/images/hoteles/227N1A2197.jpg">						
 </div>
 
-<div>
-    <a href="contact" class="button-pill">Contacto</a>
+<div class="button-container">
+    <div class="center-button">
+        <a href="contact" class="button-pill">Contacto</a>
+    </div>
 </div>
 <div class="contact-quote"> 
 Cuéntame tu proyecto y te responderé lo antes posible con un<br>prespuesto personalizado

@@ -32,9 +32,12 @@ featured_image: /images/demo/
     </div>
 </div>
 
-<div>
-    <a href="contact" class="button-pill">Contacto</a>
+<div class="button-container">
+    <div class="center-button">
+        <a href="contact" class="button-pill">Contacto</a>
+    </div>
 </div>
+
 <div class="contact-quote"> 
 Trabajemos juntos!
 </div>
