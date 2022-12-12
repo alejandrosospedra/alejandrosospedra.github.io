@@ -85,7 +85,7 @@
 	background: #fff;
 	font-size: $p-small;
 	line-height: 1.4;
-	color: $text-white-color;
+	color: $text-dark-color;
 	@include transition(all 0.15s ease-in-out);
 
 	@include mq(tabletp) {

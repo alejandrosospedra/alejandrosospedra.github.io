@@ -5,7 +5,7 @@
 // - - - - - - - - - - - - - - - - - -
 
 .gallery {
-
+	
 }
 
 .gallery--on {
@@ -180,4 +180,23 @@
 	font-family: 'Raleway', sans-serif;	
 	color: white;
   }
+
+  @media all and (min-width: 50px)   {  .centered  { visibility: hidden} }
+@media all and (min-width: 100px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 200px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 300px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 400px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 500px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 600px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 700px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 800px)  {  .centered  { visibility: hidden} }
+@media all and (min-width: 900px)  {  .centered  { font-size:220px; visibility:visible;} }
+@media all and (min-width: 1000px) {  .centered  { font-size:230px; visibility:visible;} }
+@media all and (min-width: 1100px) {  .centered  { font-size:240px; visibility:visible;} }
+@media all and (min-width: 1200px) {  .centered  { font-size:250px; visibility:visible;} }
+@media all and (min-width: 1300px) {  .centered  { font-size:260px; visibility:visible;} }
+@media all and (min-width: 1400px) {  .centered  { font-size:270px; visibility:visible;} }
+@media all and (min-width: 1500px) {  .centered  { font-size:280px; visibility:visible;} }
+@media all and (min-width: 1600px) {  .centered  { font-size:290px; visibility:visible;} }
+@media all and (min-width: 1700px) {  .centered  { font-size:300px; visibility:visible;} }
 

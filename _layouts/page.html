@@ -19,8 +19,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<!-- Page Info -->
-	<link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
-	<title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
+	<link rel="icon" type="image/x-icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
+	<title>{{ page.title }}</title>
 	<meta name="description" content="{{ page.description | strip_html | xml_escape }}">
 
 	<!-- Twitter Card -->
@@ -83,6 +83,22 @@
 				
 					{{ page.content }}
 
+					<button class="back-to-top hidden">
+						<svg
+						  xmlns="http://www.w3.org/2000/svg"
+						  class="back-to-top-icon"
+						  fill="none"
+						  viewBox="0 0 24 24"
+						  stroke="currentColor"
+						>
+						  <path
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							stroke-width="2"
+							d="M7 11l5-5m0 0l5 5m-5-5v12"
+						  />
+						</svg>
+					  </button>
 			</div>
 
 		</div>
@@ -95,6 +111,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="{{ '/js/plugins-min.js' | relative_url }}"></script>
 	<script src="{{ '/js/board-min.js' | relative_url }}"></script>
+	<script src="{{ '/js/scroll-up.js' | relative_url }}"></script>
 
 	{% if site.data.settings.advanced_settings.footer_js %}
 	<!-- Extra Footer JS Code -->

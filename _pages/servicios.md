@@ -1,5 +1,5 @@
 ---
-title: Fotos de Stock 
+title: Servicios
 subtitle: Amplia experencia en Stock para que puedas darle un toque profesional a tu negocio
 description: Échale un vistazo a mi portfolio para ver un ejemplo de mis fotografias.
 featured_image: /images/demo/
