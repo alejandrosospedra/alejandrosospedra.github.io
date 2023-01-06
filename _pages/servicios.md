@@ -5,9 +5,9 @@ description: Échale un vistazo a mi portfolio para ver un ejemplo de mis fotogr
 featured_image: /images/demo/
 ---
 
+
 <div class="gallery" data-columns="1">
 	<img src="/images/servicios/7N1A6201.jpg">
-    <page class="centered">SERVICIOS</page>
 </div>
 
 <div class="service">    

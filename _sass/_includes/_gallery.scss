@@ -5,7 +5,7 @@
 // - - - - - - - - - - - - - - - - - -
 
 .gallery {
-	
+	animation: fadeIn 3s;
 }
 
 .gallery--on {
@@ -179,24 +179,29 @@
 	font-family: 'Quicksand', sans-serif;
 	font-family: 'Raleway', sans-serif;	
 	color: white;
+	animation: fadeIn 3s;
   }
+  @keyframes fadeIn {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}
 
-  @media all and (min-width: 50px)   {  .centered  { visibility: hidden} }
-@media all and (min-width: 100px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 200px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 300px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 400px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 500px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 600px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 700px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 800px)  {  .centered  { visibility: hidden} }
-@media all and (min-width: 900px)  {  .centered  { font-size:220px; visibility:visible;} }
-@media all and (min-width: 1000px) {  .centered  { font-size:230px; visibility:visible;} }
-@media all and (min-width: 1100px) {  .centered  { font-size:240px; visibility:visible;} }
-@media all and (min-width: 1200px) {  .centered  { font-size:250px; visibility:visible;} }
-@media all and (min-width: 1300px) {  .centered  { font-size:260px; visibility:visible;} }
-@media all and (min-width: 1400px) {  .centered  { font-size:270px; visibility:visible;} }
-@media all and (min-width: 1500px) {  .centered  { font-size:280px; visibility:visible;} }
-@media all and (min-width: 1600px) {  .centered  { font-size:290px; visibility:visible;} }
-@media all and (min-width: 1700px) {  .centered  { font-size:300px; visibility:visible;} }
+  @media all and (min-width: 50px)   {  .centered  { font-size:10px  } }
+@media all and (min-width: 100px)  {  .centered  { font-size:20px  } }
+@media all and (min-width: 200px)  {  .centered  { font-size:40px  } }
+@media all and (min-width: 300px)  {  .centered  { font-size:60px  } }
+@media all and (min-width: 400px)  {  .centered  { font-size:80px  } }
+@media all and (min-width: 500px)  {  .centered  { font-size:100px  } }
+@media all and (min-width: 600px)  {  .centered  { font-size:120px  } }
+@media all and (min-width: 700px)  {  .centered  { font-size:140px  } }
+@media all and (min-width: 800px)  {  .centered  { font-size:160px  } }
+@media all and (min-width: 900px)  {  .centered  { font-size:220px; } }
+@media all and (min-width: 1000px) {  .centered  { font-size:230px; } }
+@media all and (min-width: 1100px) {  .centered  { font-size:240px; } }
+@media all and (min-width: 1200px) {  .centered  { font-size:250px; } }
+@media all and (min-width: 1300px) {  .centered  { font-size:260px; } }
+@media all and (min-width: 1400px) {  .centered  { font-size:270px; } }
+@media all and (min-width: 1500px) {  .centered  { font-size:280px; } }
+@media all and (min-width: 1600px) {  .centered  { font-size:290px; } }
+@media all and (min-width: 1700px) {  .centered  { font-size:300px; } }
 

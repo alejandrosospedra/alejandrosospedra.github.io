@@ -5,10 +5,10 @@ description: Échale un vistazo a mi portfolio para ver un ejemplo de mis fotogr
 featured_image: / mages/demo/
 ---
 
+
 <div class="gallery" data-columns="1">
 	<img src="/images/hoteles/217N1A0910.jpg">
     <img src="/images/hoteles/177N1A5594.jpg">
-	<page class="centered">HOTELES</page>
 </div>
 <div class="container-texto-hoteles">
 	<div class="texto-hoteles">Una potente fotografía, en el mundo de la hotelería, es primordial,<br>por eso tarto de reflejar en una fotografía,<br>la esencia de su hotel.
