@@ -10,5 +10,5 @@ window.addEventListener('load', function () {
     else
         pageTitle = 'SERVICIOS';
 
-    $('.gallery.gallery--carousel.gallery--on').children().children().children().children().children().append("<div class='centered'>"+ pageTitle +"</div")
+    $('.gallery.gallery--carousel.gallery--on').children().append("<div class='centered'>"+ pageTitle +"</div")
 });
