@@ -9,7 +9,7 @@
     position: relative;
     text-align: center;
     margin: 0;
-    font-size: 2vw;
+    font-size: 2.2vw;
 }
 
 .separadores {
@@ -31,4 +31,10 @@
 	line-height: $p-lineheight;
 	letter-spacing: $p-spacing;
     position: relative;
+}
+
+@media only screen and (max-width: 960px) {
+    .separadores {
+        border-top: 1px solid #222;
+    }
 }
