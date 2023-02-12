@@ -14,7 +14,7 @@ Después de años interesándome e investigando sobre la <br> fotografía, en 20
 </div>
 <div class="about">
     <div class="about-half">
-        <img src="/images/about/SobremiFoto.jpg" class="image-about">
+        <img src="/images/about/KIK0001.jpg" class="image-about">
     </div>
     <div class="about-half">
         <h3>Eric Panades Bosch</h3>
