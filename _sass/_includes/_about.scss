@@ -5,7 +5,7 @@
     width: 100%;
     box-sizing: border-box;
     margin: 0;
-    padding: 0px 250px 50px;
+    padding: 0px 125px 50px;
 }
 
 .about-half {
@@ -13,7 +13,7 @@
     float: left;
     padding: 20px;
     position: relative;
-    height: 700px;
+    height: auto;
 }
 
 .about-title {
@@ -38,7 +38,13 @@
 }
 
 .image-about{
-    height: 700px;
-    width: auto;
+    height: auto;
+    max-width: 100%;
     display: inline-block;
+}
+
+@media only screen and (max-width: 960px) {
+    .about-half {
+        width: 100%;
+    }
 }
