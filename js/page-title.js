@@ -1,4 +1,4 @@
-window.addEventListener('load', function () {
+function pageTitle() {
     var pageTitle = document.title;
     
     if(pageTitle === 'Portfolio')
@@ -11,4 +11,5 @@ window.addEventListener('load', function () {
         pageTitle = 'SERVICIOS';
 
     $('.gallery.gallery--carousel.gallery--on').children().append("<div class='centered'>"+ pageTitle +"</div")
-});
+    console.log("pageTitle se ha ejecutado");
+}
